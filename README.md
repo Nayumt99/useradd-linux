@@ -59,6 +59,11 @@ Adapte o script de acordo com as necessidades específicas do seu ambiente. Adic
 
 Contribuições são bem-vindas! Sinta-se à vontade para sugerir melhorias, correções ou novos recursos por meio de issues ou pull requests.
 
+## Materiais de apoio
+
+:brazil: [Guia Linux}(https://guialinux.uniriotec.br/)
+:brazil: [Curso Linux Dio](https://web.dio.me/)
+
 ## Aviso
 
 Tenha cuidado ao lidar com senhas ou informações sensíveis. Este script é um exemplo básico e pode precisar de ajustes adicionais para ambientes mais complexos ou seguros.
