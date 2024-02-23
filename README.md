@@ -13,8 +13,22 @@ cd seu-repositorio
 
 chmod +x setup_infra.sh
 
-3 - Execute o script:
+3 - Faça upload do script no GitHub:
 
+Crie um repositório no GitHub.
+Adicione e confirme o script:
+
+git init
+git add setup_infra.sh
+git commit -m "Adicionando script de configuração de infraestrutura"
+git remote add origin https://github.com/Nayumt99/useradd-linux.git
+git push -u origin master
+
+
+Ao iniciar uma nova máquina virtual, você pode clonar o repositório do GitHub e executar o script:
+
+git clone https://github.com/Nayumt99/useradd-linux.git
+cd seu-repositorio
 ./setup_infra.sh
 
 
