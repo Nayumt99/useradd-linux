@@ -18,7 +18,7 @@ chmod +x setup_infra.sh
 ./setup_infra.sh
 
 
-##Detalhes do Script
+## Detalhes do Script
 
 * Criação de Usuários:
 O script utiliza o comando useradd para criar usuários no sistema.
