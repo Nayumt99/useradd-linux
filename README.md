@@ -62,6 +62,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para sugerir melhorias, cor
 ## Materiais de apoio
 
 :brazil: [Guia Linux}(https://guialinux.uniriotec.br/)
+
 :brazil: [Curso Linux Dio](https://web.dio.me/)
 
 ## Aviso
