@@ -1,0 +1,26 @@
+#!/bin/bash
+
+# Criação de usuários
+useradd -m -s /bin/bash user1
+useradd -m -s /bin/bash user2
+
+# Criação de grupos de usuários
+groupadd group1
+groupadd group2
+
+# Adiciona usuários aos grupos
+usermod -aG group1 user1
+usermod -aG group2 user2
+
+# Criação de diretórios
+mkdir /home/user1/diretorio1
+mkdir /home/user2/diretorio2
+
+# Atribui permissões aos diretórios
+chown user1:group1 /home/user1/diretorio1
+chown user2:group2 /home/user2/diretorio2
+chmod 755 /home/user1/diretorio1
+chmod 755 /home/user2/diretorio2
+
+# Adicione outras configurações conforme necessário
+
